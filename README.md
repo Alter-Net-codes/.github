@@ -1,2 +1,7 @@
-# .github
-config files for Alter Net codes
+# hello!
+welcome to our universe...
+the universe of technology!
+
+devs:
+Pikapopcorn
+Webbrowser11
