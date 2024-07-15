@@ -1,4 +1,5 @@
-![Alter Net codes super electronics company established 2024](https://github.com/Alter-Net-codes/.github/blob/images/super-ELECTRONICS-company.jpg?raw=true)
+![super electronics company! ALterNet codes EST. 2024](https://github.com/Alter-Net-codes/.github/blob/main/images/super-ELECTRONICS-company.png) 
+
 # hello!
 welcome to our universe...
 the universe of technology!
