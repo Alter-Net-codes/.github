@@ -1,4 +1,4 @@
-![super electronics company! ALterNet codes EST. 2024](https://github.com/Alter-Net-codes/.github/blob/main/images/super-ELECTRONICS-company.png) 
+![super electronics company! ALterNet codes EST. 2024](https://github.com/Alter-Net-codes/.github/blob/main/images/superELECTRONICScompany.png) 
 
 # hello!
 welcome to our universe...
