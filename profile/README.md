@@ -1,4 +1,4 @@
-![logo](https://github.com/Alter-Net-codes/.github/blob/main/images/company.png) 
+![logo](https://github.com/Alter-Net-codes/.github/blob/main/images/alter.png) 
 
 # hello!
 welcome to our universe...
