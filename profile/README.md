@@ -10,7 +10,7 @@ devs:
 + ScratchFakemon
 + Shahzain Khan
 
-![super electronics company! Alter Net codes EST. 2024](https://github.com/Alter-Net-codes/.github/blob/main/images/whatwearelike.png) 
+![The best of SkyOS. The best of code.](https://github.com/Alter-Net-codes/.github/blob/main/images/whatwearelike.png) 
 
 # other resources:
 + [Website](https://sites.google.com/loswego.k12.or.us/anc/)
