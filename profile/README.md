@@ -14,9 +14,8 @@ devs:
 
 # other resources:
 + [Website](https://sites.google.com/loswego.k12.or.us/anc/)
-+ [Privacy Policy](https://docs.google.com/document/d/1OXw-qCOhyK7ebH8D2A0PTMLXmimxO6p_FihwHFavL08/edit?tab=t.0#heading=h.bufx2go7jw7c)
-+ [Scratch Research Docs](https://docs.google.com/document/d/1REqI2M5pc5ECsdai5DOBW3OqeMYevzNQwU1lIdWF9hg/edit?tab=t.0#heading=h.n6sjtnnxybnl)
-+ [SkyOS](https://github.com/Alter-Net-codes/SkyOS)
++ [Privacy Policy](https://sites.google.com/loswego.k12.or.us/anc/more/privacy-policy)
++ [Terms of Service](https://sites.google.com/loswego.k12.or.us/anc/more/terms-of-service)
 
 # help
 using [this email client](https://twoblade.com/) make a new account then send to alternethelp#twoblade.com
